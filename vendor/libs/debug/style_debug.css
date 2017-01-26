@@ -1,0 +1,17 @@
+.main_debug
+{
+    background-color: rgb(208, 208, 208);
+    padding: 20px;
+    border: 2px solid;
+    border-radius: 20px;
+    width: 800px;
+    margin: 0 auto;
+}
+ul.block_param
+{
+    list-style-type: none;
+}
+ul.block_param li
+{
+    margin: 10px;
+}
